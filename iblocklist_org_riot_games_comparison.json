@@ -1,0 +1,14 @@
+[
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 767162054,
+		"common": 512
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 337982491,
+		"common": 256
+	}
+]
